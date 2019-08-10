@@ -19,5 +19,6 @@ public class _2_LeftRotation {
     public static void main(String[] args) {
         //int[] result = _2_LeftRotation.rotLeft(new int[]{1,2,3,4,5}, 56);
         System.out.println(73642 % 60581);
+
     }
 }
