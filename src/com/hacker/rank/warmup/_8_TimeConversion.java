@@ -1,7 +1,5 @@
 package com.hacker.rank.warmup;
 
-import com.sun.javaws.jnl.RContentDesc;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

@@ -1,7 +1,5 @@
 package com.hacker.rank.java.introduction;
 
-import com.sun.deploy.util.StringUtils;
-
 public class _1_JavaOutputFormatting {
 
     public static void main(String[] args) {
